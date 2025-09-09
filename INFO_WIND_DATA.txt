@@ -1,0 +1,2 @@
+WIND_DATA = https://rda.ucar.edu/datasets/ds084.1/dataaccess/
+HOW_TO_READ_GRIB2_FILE = https://spire.com/tutorial/spire-weather-tutorial-intro-to-processing-grib2-data-with-python/
